@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabsParques</string>
+    <string name="action_settings">Settings</string>
+    <string name="Info">Soy la pestaña de Info</string>
+    <string name="Fauna">Soy la pestaña de Fauna</string>
+    <string name="Flora">Soy la pestaña de Flora</string>
+    <string name="Otros">Soy la pestaña de Otros</string>
+
+</resources>
